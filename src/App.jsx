@@ -14,7 +14,7 @@ const sub3="Perambalur, Ariyalur, Thuraiyur, and Tholudur";
 const sub2=" With 15+ years of experience in the automobile industry, I specialize in providing reliable and efficient Ape Auto solutions for personal and commercial needs.I proudly serve customers across Perambalur, Ariyalur, Thuraiyur, and Tholudur, offering expert guidance to help you choose the perfect vehicle for your business or transportation requirements.My goal is to ensure every customer enjoys a smooth buying experience, with trusted service, affordable pricing, and ongoing support. Let’s make your journey easier with Ape Auto – your partner for progress! ";
 
 const bc=" Call:+91 98428 29583"
-const prof="https://i.postimg.cc/ydNgxwtq/95a3823c-f7f2-4bef-a6bd-656867a011b7-20250906-172556-0000.jpg"
+const prof="https://i.postimg.cc/yxcR92hL/95a3823c-f7f2-4bef-a6bd-656867a011b7-20250906-172544-0000-2.jpg"
 
 const instaurl="https://piaggio-cv.co.in/"
 
