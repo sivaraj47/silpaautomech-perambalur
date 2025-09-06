@@ -50,10 +50,10 @@ const tours = [
 	  url:"https://piaggio-cv.co.in/wp-content/themes/piaggio/assets/pdf/Ap%C3%A9%20Electric%20Cargo%20Swappable%20Battery/Ape%20e-cargo%20MAX_Tamil%208%20%20pager_revised.pdf"
     },
     {
-     img: "https://piaggio-cv.co.in/wp-content/themes/piaggio/assets/img/product/passenger/auto-plus/Yellow_45454+Door.png",
+     img: "https://piaggio-cv.co.in/wp-content/themes/piaggio/assets/img/product/cargo/ht-cng-300cc/ht-cng-yellow8.png",
       title: "Download Broucher",
-      description: "Piaggio Apé Auto DX CNG",
-	  url:"https://piaggio-cv.co.in/wp-content/themes/piaggio/assets/pdf/Ap%C3%A9_Auto_DX_CNG/Ape%20auto%20DX%20230%20cc_Tamil.pdf"
+      description: "Piaggio Apé Xtra HT 300cc CNG",
+	  url:"https://piaggio-cv.co.in/wp-content/themes/piaggio/assets/pdf/Ap%C3%A9_Xtra_HT_300CNG/300_CC_Xtra-HT_Leaflet_Tamil.pdf"
     },
     {
       img: "https://piaggio-cv.co.in/wp-content/themes/piaggio/assets/img/product/passenger/auto-plus/Yellow_45454+Door.png",
