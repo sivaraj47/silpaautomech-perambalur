@@ -62,10 +62,10 @@ const tours = [
 	  url:"https://piaggio-cv.co.in/wp-content/themes/piaggio/assets/pdf/Ape_xtra_599/Final%20Xtra%20LDX%20HD_Tamil.pdf"
     },
     {
-      img: "https://piaggio-cv.co.in/wp-content/themes/piaggio/assets/img/product/passenger/auto-plus/Yellow_45454+Door.png",
+      img: "https://piaggio-cv.co.in/wp-content/themes/piaggio/assets/img/product/passenger/auto-dx/paby.png",
       title: "Download Broucher",
-      description: "Piaggio Apé Auto DX CNG",
-	  url:"https://piaggio-cv.co.in/wp-content/themes/piaggio/assets/pdf/Ap%C3%A9_Auto_DX_CNG/Ape%20auto%20DX%20230%20cc_Tamil.pdf"
+      description: "Apé Auto Bada – CNG 300cc",
+	  url:"https://piaggio-cv.co.in/wp-content/themes/piaggio/assets/pdf/Ape-Auto-DX-Diesel/Leaflet-final-Auto-Bada-Tamil.pdf"
     },
     {
      img: "https://piaggio-cv.co.in/wp-content/themes/piaggio/assets/img/product/passenger/auto-plus/Yellow_45454+Door.png",
