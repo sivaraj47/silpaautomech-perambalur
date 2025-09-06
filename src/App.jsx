@@ -56,10 +56,10 @@ const tours = [
 	  url:"https://piaggio-cv.co.in/wp-content/themes/piaggio/assets/pdf/Ap%C3%A9_Xtra_HT_300CNG/300_CC_Xtra-HT_Leaflet_Tamil.pdf"
     },
     {
-      img: "https://piaggio-cv.co.in/wp-content/themes/piaggio/assets/img/product/passenger/metro/472614.png",
+      img: "https://piaggio-cv.co.in/wp-content/themes/piaggio/assets/img/product/cargo/diesel-599cc/F2C33B.png",
       title: "Download Broucher",
-      description: "Piaggio Apé Metro CNG",
-	  url:"https://piaggio-cv.co.in/wp-content/themes/piaggio/assets/pdf/Ape_metro_cng/Ape-city-metro-4pager_Tamil%20c%20to%20c.pdf"
+      description: "Apé Xtra HD 599cc Diesel",
+	  url:"https://piaggio-cv.co.in/wp-content/themes/piaggio/assets/pdf/Ape_xtra_599/Final%20Xtra%20LDX%20HD_Tamil.pdf"
     },
     {
       img: "https://piaggio-cv.co.in/wp-content/themes/piaggio/assets/img/product/passenger/auto-plus/Yellow_45454+Door.png",
