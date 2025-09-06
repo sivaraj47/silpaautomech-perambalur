@@ -13,7 +13,7 @@ const sub="Saravanasankar - sales executive";
 const sub3="Perambalur, Ariyalur, Thuraiyur, and Tholudur";
 const sub2=" With 15+ years of experience in the automobile industry, I specialize in providing reliable and efficient Ape Auto solutions for personal and commercial needs.I proudly serve customers across Perambalur, Ariyalur, Thuraiyur, and Tholudur, offering expert guidance to help you choose the perfect vehicle for your business or transportation requirements.My goal is to ensure every customer enjoys a smooth buying experience, with trusted service, affordable pricing, and ongoing support. Let’s make your journey easier with Ape Auto – your partner for progress! ";
 
-const bc=" Call:+91 98765 43210"
+const bc=" Call:+91 98428 29583"
 const prof="https://img.freepik.com/free-photo/young-bearded-man-with-striped-shirt_273609-5677.jpg"
 
 const instaurl="https://piaggio-cv.co.in/"
@@ -78,7 +78,20 @@ const tours = [
       title: "Download Broucher",
       description: "Piaggio Apé Auto+",
 	  url:"https://piaggio-cv.co.in/wp-content/themes/piaggio/assets/pdf/Ape_city_plus/Copy%20of%20Ape%20Auto%20+_Diesel_Tamil.pdf"
+    },
+	{
+     img: "https://piaggio-cv.co.in/wp-content/themes/piaggio/assets/img/product/passenger/auto-plus/Yellow_45454+Door.png",
+      title: "Download Broucher",
+      description: "Piaggio Apé City Diesel 3-wheeler",
+	  url:"https://piaggio-cv.co.in/wp-content/themes/piaggio/assets/pdf/Ape_City_Diesel/Copy%20of%20Ape%20City%20Leaflet_Tamil.pdf"
+    },
+	{
+     img: "https://piaggio-cv.co.in/wp-content/themes/piaggio/assets/img/product/passenger/auto-plus/Yellow_45454+Door.png",
+      title: "Download Broucher",
+      description: "Piaggio Apé City+ 3-wheeler Auto",
+	  url:"https://piaggio-cv.co.in/wp-content/themes/piaggio/assets/pdf/Ape_city_plus/Ape%20City%20+%20Leaflet_Tamil.pdf"
     }
+	
 	
   ]
   return (
