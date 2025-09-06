@@ -74,10 +74,10 @@ const tours = [
 	  url:"https://piaggio-cv.co.in/wp-content/themes/piaggio/assets/pdf/Ape_auto_DXL/Ape%20Auto%20DXL_Diesel_Tamil_for%20ref.pdf"
     },
 	{
-     img: "https://piaggio-cv.co.in/wp-content/themes/piaggio/assets/img/product/passenger/auto-dxl/472613.png",
+     img: "https://piaggio-cv.co.in/wp-content/themes/piaggio/assets/img/product/passenger/auto-plus/Yellow_45454+Door.png",
       title: "Download Broucher",
-      description: "Piaggio Apé Auto DXL",
-	  url:"https://piaggio-cv.co.in/wp-content/themes/piaggio/assets/pdf/Ape_auto_DXL/Ape%20Auto%20DXL_Diesel_Tamil_for%20ref.pdf"
+      description: "Piaggio Apé Auto+",
+	  url:"https://piaggio-cv.co.in/wp-content/themes/piaggio/assets/pdf/Ape_city_plus/Copy%20of%20Ape%20Auto%20+_Diesel_Tamil.pdf"
     }
 	
   ]
