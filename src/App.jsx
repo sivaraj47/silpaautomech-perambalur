@@ -56,10 +56,10 @@ const tours = [
 	  url:"https://piaggio-cv.co.in/wp-content/themes/piaggio/assets/pdf/Ap%C3%A9_Xtra_HT_300CNG/300_CC_Xtra-HT_Leaflet_Tamil.pdf"
     },
     {
-      img: "https://piaggio-cv.co.in/wp-content/themes/piaggio/assets/img/product/passenger/auto-plus/Yellow_45454+Door.png",
+      img: "https://piaggio-cv.co.in/wp-content/themes/piaggio/assets/img/product/passenger/metro/472614.png",
       title: "Download Broucher",
-      description: "Piaggio Apé Auto DX CNG",
-	  url:"https://piaggio-cv.co.in/wp-content/themes/piaggio/assets/pdf/Ap%C3%A9_Auto_DX_CNG/Ape%20auto%20DX%20230%20cc_Tamil.pdf"
+      description: "Piaggio Apé Metro CNG",
+	  url:"https://piaggio-cv.co.in/wp-content/themes/piaggio/assets/pdf/Ape_metro_cng/Ape-city-metro-4pager_Tamil%20c%20to%20c.pdf"
     },
     {
       img: "https://piaggio-cv.co.in/wp-content/themes/piaggio/assets/img/product/passenger/auto-plus/Yellow_45454+Door.png",
