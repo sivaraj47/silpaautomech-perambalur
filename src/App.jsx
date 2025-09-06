@@ -4,7 +4,7 @@ import viteLogo from '/vite.svg'
 import './App.css'
 import TourCard from "./components/TourCard"
 import NavHeader from "./components/NavHeader"
-
+import Footer from "./components/Footer"
 
 function App() {
 
@@ -96,7 +96,7 @@ const tours = [
 	  ))  
 	  }
     </div>
-	
+		<Footer/>
     </>
 	
   )
