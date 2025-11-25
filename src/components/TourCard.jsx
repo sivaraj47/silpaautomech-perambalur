@@ -23,7 +23,7 @@ function TourCard({ img, titles, description, isFullWidth,url}) {
       <div className="p-2 font-roboto text-center">
         <div   onClick={() => window.open(url, "_blank")}
 		 className="text-accent font-semibold text-[#222] bg-yellow-500 text-[14px] p-2  w-48 m-auto border-1 rounded-xl mb-2">{titles}</div>
-        <p className="font-bold text-[18px] text-par mb-2">{description}</p>
+        <p className="font-bold text-[14px] text-par mb-2">{description}</p>
       </div>
 	</div>
 	
@@ -32,5 +32,6 @@ function TourCard({ img, titles, description, isFullWidth,url}) {
 }
 
 export default TourCard
+
 
 
