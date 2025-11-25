@@ -17,7 +17,7 @@ function TourCard({ img, titles, description, isFullWidth,url}) {
 	<img 	
 	  src={img}
 	  alt={titles}
-	className={`rounded-xl  object-cover m-2 transform scale-99 group-hover:scale-105 group-hover:shadow-xl transition ease 
+	className={`rounded-xl  object-contain m-2 transform scale-99 group-hover:scale-105 group-hover:shadow-xl transition ease 
 	${isFullWidth ? "h-96 bg-top" : " h-48 max-md:h-96"}`} />
 	
       <div className="p-2 font-roboto text-center">
@@ -32,6 +32,7 @@ function TourCard({ img, titles, description, isFullWidth,url}) {
 }
 
 export default TourCard
+
 
 
 
