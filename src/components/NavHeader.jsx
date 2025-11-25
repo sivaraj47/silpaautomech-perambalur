@@ -33,33 +33,26 @@ function NavHeader({mtitle,stitle,stitle2,stitle3,smtit,profile,insta}) {
 	</nav>
 	
 	
-	<div className="flex flex-col justify-center items-center my-2" id="about">
-	     <div className="flex justify-center flex-col items-center mt-5">
-		 <img src={profile} className=" w-40 h-40 object-cover  rounded-full border bg-gray-200 shadow-xl shadow-gray-500/50 mt-2"/>
-		 <p className="text-xl p-2 max-md:text-xl">{stitle}</p>
-          <img onClick={() => window.open(insta, "_blank")} src="https://img.icons8.com/fluency/32/instagram-new.png" className=""/>
-      			 </div>
-	  <p className="text-[35px] max-md:text-2xl p-2">{mtitle}</p>	
-				 <p className="text-2xl p-2 max-md:text-xl">{stitle3}</p>	
-<div className="flex justify-arounded items-center w-full max-md:flex-col">
-<div className="w-full text-left">
-<ul className="list-inside list-disc">
-  <li className="text-sm p-2 max-md:text-xl">With 15+ years of experience in the automobile industry, I specialize in providing reliable and efficient Ape Auto solutions for personal and commercial needs.</li>
-  <li className="text-sm p-2 max-md:text-xl">My goal is to ensure every customer enjoys a smooth buying experience, with trusted service, affordable pricing, and ongoing support.</li>
-</ul>
-</div>	
-<div className=" w-full text-left">
-<ul className="list-inside  list-disc">
-  <li className="text-sm p-2 max-md:text-xl">I proudly serve customers across Perambalur, Ariyalur, Thuraiyur, and Tholudur, offering expert guidance to help you choose the perfect vehicle for your business or transportation requirements.</li>
-  <li className="text-sm p-2 max-md:text-xl">Let’s make your journey easier with Ape Auto – your partner for progress!</li>
-</ul>
-</div>				 
-</div>				 
-	  	  
-
-	<a href="tel:9842829583" className="p-3  mt-2 text-blue-400 text-[16px]  bg-yellow-400  border-1 rounded-4xl hover:bg-blue-100" >{smtit}</a>
-	  
-	</div>
+<div className="flex flex-col1 justify-center items-center my-2" id="about">
+	<div className="flex justify-center w-[50%] flex-col items-center mt-5">
+		<img className=" w-[85%] h-100 object-cover  rounded-2xl border1 1bg-gray-200 shadow-xl shadow-gray-500/50 mt-2" src="https://piaggio-cv.co.in/wp-content/themes/piaggio/assets/img/product/passenger/auto-plus/Yellow_45454+Door.png">
+			<p className="text-xl p-2 max-md:text-xl">Saravanasankar - sales executive</p>
+			<img className="" src="https://img.icons8.com/fluency/32/instagram-new.png">
+			</div>
+			<div className="flex justify-arounded w-[50%] items-center w-full1 max-md:flex-col">
+				<div className="w-full1 text-left">
+					<p className="text-2xl p-2 max-md:text-xl">Perambalur, Ariyalur, Thuraiyur, and Tholudur</p>
+					<p className="text-[35px] max-md:text-2xl p-2">Move Anywhere, More Easily Than Ever - Ape Auto</p>
+					<div className="list-inside1 list-disc1 mb-6 flex flex-wrap">
+						<div className="text-sm p-2 max-md:text-xl w-[50%]"> 15+ years of experience .</div>
+						<div className="text-sm p-2 max-md:text-xl w-[50%]"> trusted service, .</div>
+						<div className="text-sm p-2 max-md:text-xl w-[50%]">5000+ serve customers</div>
+						<div className="text-sm p-2 max-md:text-xl w-[50%]">affordable pricing, and ongoing support!</div>
+					</div>
+					<a href="tel:9842829583" className="p-3  mt-6 text-blue-400 text-[16px]  bg-yellow-400  border-1 rounded-xl hover:bg-blue-100 uppercase"> Immediate Call</a>
+				</div>
+			</div>
+		</div>
 
 	</>
 	
@@ -68,4 +61,5 @@ function NavHeader({mtitle,stitle,stitle2,stitle3,smtit,profile,insta}) {
 	
 }
 export default NavHeader
+
 
