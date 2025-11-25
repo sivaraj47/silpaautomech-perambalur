@@ -11,7 +11,7 @@ function TourCard({ img, titles, description, isFullWidth,url}) {
         <p className="font-medium text-par">{description}</p>
       </div>
     </div> */
-	<div className={`group flex flex-col justify-center mt-7 bg-sky-100 rounded-xl border-2 border-transparent hover:border-cclor hover:shadow-strong transition ease-in m-2 ${isFullWidth ? "w-full " : "w-78 max-md:w-full "}`} id="services">
+	<div className={`group flex flex-col justify-center mt-7 bg-yellow-100 rounded-xl border-2 border-transparent hover:border-cclor hover:shadow-strong transition ease-in m-2 ${isFullWidth ? "w-full " : "w-78 max-md:w-full "}`} id="services">
 	
 	
 	<img 	
@@ -22,7 +22,7 @@ function TourCard({ img, titles, description, isFullWidth,url}) {
 	
       <div className="p-2 font-roboto text-center">
         <div   onClick={() => window.open(url, "_blank")}
-		 className="text-accent font-semibold text-white bg-blue-600 text-[14px] p-2  w-48 m-auto border-1 rounded-xl mb-2">{titles}</div>
+		 className="text-accent font-semibold text-[#222] bg-yellow-500 text-[14px] p-2  w-48 m-auto border-1 rounded-xl mb-2">{titles}</div>
         <p className="font-bold text-[18px] text-par mb-2">{description}</p>
       </div>
 	</div>
@@ -32,4 +32,5 @@ function TourCard({ img, titles, description, isFullWidth,url}) {
 }
 
 export default TourCard
+
 
