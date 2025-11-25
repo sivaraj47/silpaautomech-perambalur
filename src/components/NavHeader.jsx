@@ -41,9 +41,9 @@ function NavHeader({mtitle,stitle,stitle2,stitle3,smtit,profile,insta}) {
 			</div>
 			<div className="flex justify-arounded w-[50%] items-center w-full1 max-md:flex-col">
 				<div className="w-full1 text-left">
-					<p className="text-[35px] max-md:text-2xl p-2">Move Anywhere, More Easily Than Ever - Ape Auto</p>
-					<p className="text-2xl p-2 max-md:text-xl">Perambalur, Ariyalur, Thuraiyur, and Tholudur</p>
-					<div className="list-inside1 list-disc1 mb-6 flex flex-wrap">
+					<p className="text-[42px] max-md:text-2xl p-2 font-[600]">Move Anywhere, More Easily Than Ever - Ape Auto</p>
+					<p className="text-2xl p-2 max-md:text-xl font-[600]">Perambalur, Ariyalur, Thuraiyur, and Tholudur</p>
+					<div className="list-inside1 list-disc1 mb-6 flex flex-wrap font-[600]">
 						<p className="text-xl p-2 max-md:text-xl mb-2">Saravanasankar - sales executive</p>
 						<div className="text-sm p-2 max-md:text-xl w-[50%]"> 15+ years of experience .</div>
 						<div className="text-sm p-2 max-md:text-xl w-[50%]"> trusted service, .</div>
@@ -62,6 +62,7 @@ function NavHeader({mtitle,stitle,stitle2,stitle3,smtit,profile,insta}) {
 	
 }
 export default NavHeader
+
 
 
 
