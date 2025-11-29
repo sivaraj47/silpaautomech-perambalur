@@ -43,12 +43,20 @@ function NavHeader({mtitle,stitle,stitle2,stitle3,smtit,profile,insta}) {
 				<div className="w-full1 text-left">
 					<p className="text-[42px] max-md:text-2xl p-2 font-[600]">Move Anywhere, More Easily Than Ever - Ape Auto</p>
 					<p className="text-2xl p-2 max-md:text-xl font-[600]">Perambalur, Ariyalur, Thuraiyur, and Tholudur</p>
+						<p className="text-xl p-2 max-md:text-xl mb-2 font-[600]">Saravanasankar - sales executive</p>					
 					<div className="list-inside1 list-disc1 mb-6 flex flex-wrap font-[600]">
-						<p className="text-xl p-2 max-md:text-xl mb-2">Saravanasankar - sales executive</p>
-						<div className="text-sm p-2 max-md:text-xl w-[50%]"> 15+ years of experience .</div>
-						<div className="text-sm p-2 max-md:text-xl w-[50%]"> trusted service, .</div>
-						<div className="text-sm p-2 max-md:text-xl w-[50%]">5000+ serve customers</div>
-						<div className="text-sm p-2 max-md:text-xl w-[50%]">affordable pricing, and ongoing support!</div>
+						<div className="text-sm p-2 max-md:text-xl w-[45%] flex flex-col bg-white rounded-lg m-1">
+							<span className="text-4xl">15+ </span>  <span className="px-2"> years of experience .</span>
+						</div>
+						<div className="text-sm p-2 max-md:text-xl w-[45%] flex flex-col bg-white rounded-lg m-1">
+							<span className="text-4xl">20+ </span>  <span className="px-2"> trusted service,</span>
+						</div>
+						<div className="text-sm p-2 max-md:text-xl w-[45%] flex flex-col bg-white rounded-lg m-1">
+							<span className="text-4xl">5000+ </span>  <span className="px-2">serve customers</span>
+						</div>
+						<div className="text-sm p-2 max-md:text-xl w-[45%] flex flex-col bg-white rounded-lg m-1">
+							<span className="text-4xl">100%</span>  <span className="px-2">Reasonable ongoing support</span>
+						</div>						
 					</div>
 					<a href="tel:9842829583" className="p-3  mt-6 text-blue-400 text-[16px]  bg-yellow-400  border-1 rounded-xl hover:bg-blue-100 uppercase1">Call :+91-9842829583</a>
 				</div>
@@ -62,6 +70,7 @@ function NavHeader({mtitle,stitle,stitle2,stitle3,smtit,profile,insta}) {
 	
 }
 export default NavHeader
+
 
 
 
