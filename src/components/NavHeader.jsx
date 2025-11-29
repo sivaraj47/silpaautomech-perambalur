@@ -46,16 +46,16 @@ function NavHeader({mtitle,stitle,stitle2,stitle3,smtit,profile,insta}) {
 						<p className="text-xl p-2 max-md:text-xl mb-2 font-[600]">Saravanasankar - sales executive</p>					
 					<div className="list-inside1 list-disc1 mb-6 flex flex-wrap font-[600]">
 						<div className="text-sm p-2 max-md:text-xl w-[45%] flex flex-col bg-white rounded-lg m-1">
-							<span className="text-4xl">15+ </span>  <span className="px-2"> years of experience .</span>
+							<span className="text-2xl">15+ </span>  <span className="px-2"> years of experience .</span>
 						</div>
 						<div className="text-sm p-2 max-md:text-xl w-[45%] flex flex-col bg-white rounded-lg m-1">
-							<span className="text-4xl">20+ </span>  <span className="px-2"> trusted service,</span>
+							<span className="text-2xl">20+ </span>  <span className="px-2"> trusted service,</span>
 						</div>
 						<div className="text-sm p-2 max-md:text-xl w-[45%] flex flex-col bg-white rounded-lg m-1">
-							<span className="text-4xl">5000+ </span>  <span className="px-2">serve customers</span>
+							<span className="text-2xl">5000+ </span>  <span className="px-2">serve customers</span>
 						</div>
 						<div className="text-sm p-2 max-md:text-xl w-[45%] flex flex-col bg-white rounded-lg m-1">
-							<span className="text-4xl">100%</span>  <span className="px-2">Reasonable ongoing support</span>
+							<span className="text-2xl">100%</span>  <span className="px-2">Reasonable ongoing support</span>
 						</div>						
 					</div>
 					<a href="tel:9842829583" className="p-3  mt-6 text-blue-400 text-[16px]  bg-yellow-400  border-1 rounded-xl hover:bg-blue-100 uppercase1">Call :+91-9842829583</a>
@@ -70,6 +70,7 @@ function NavHeader({mtitle,stitle,stitle2,stitle3,smtit,profile,insta}) {
 	
 }
 export default NavHeader
+
 
 
 
