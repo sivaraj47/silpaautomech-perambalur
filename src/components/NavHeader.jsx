@@ -53,7 +53,7 @@ function NavHeader({mtitle,stitle,stitle2,stitle3,smtit,profile,insta}) {
 							<span className="text-2xl">5000+ </span>  <span className="px-2">serve customers</span>
 						</div>
 						<div className="text-sm p-2 max-md:text-xl w-[45%] flex flex-col bg-white rounded-lg m-1">
-							<span className="text-2xl">100%</span>  <span className="px-2">Reasonable ongoing support</span>
+							<span className="text-2xl">100%</span>  <span className="px-2">Reasonable, Trust Worthy, Support</span>
 						</div>						
 					</div>
 					<a href="tel:9842829583" className="p-3  mt-6 text-blue-400 text-[16px]  bg-yellow-400  border-1 rounded-xl hover:bg-blue-100 uppercase1">Call :+91-9842829583</a>
@@ -68,6 +68,7 @@ function NavHeader({mtitle,stitle,stitle2,stitle3,smtit,profile,insta}) {
 	
 }
 export default NavHeader
+
 
 
 
