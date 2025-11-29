@@ -8,9 +8,7 @@ function NavHeader({mtitle,stitle,stitle2,stitle3,smtit,profile,insta}) {
 	return(	
 	<>
 	<nav className="w-[100%] m-auto flex flex-wrap justify-around shadow-xl items-center bg-yellow-400 shadow p-3 rounded-4xl sticky top-0 z-20 max-md:flex max-md:flex-col max-md:justify-center max-md:w-[100%]">
-	<a href="">Me
-	
-	</a>
+	<a href="/" className="text-xl font-bold">Silpa Automech </a>
 	<ul className="flex flex-wrap justify-around w-[300px] max-md:flex max-md:flex-col max-md:w-full max-md:justify-center">
 	
 		<li>
@@ -70,6 +68,7 @@ function NavHeader({mtitle,stitle,stitle2,stitle3,smtit,profile,insta}) {
 	
 }
 export default NavHeader
+
 
 
 
